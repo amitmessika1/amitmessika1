@@ -15,6 +15,7 @@ Currently looking for an opportunity to join a **software development role** whe
 ## 😊 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/amit-messika/)
+
 [![GitHub](https://img.shields.io/badge/GitHub-amitmessika1-black?style=for-the-badge&logo=github)](https://github.com/amitmessika1)
 
 # 🚀 Tech Stack
