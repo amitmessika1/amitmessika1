@@ -10,9 +10,9 @@ I have experience working with **full-stack development, systems programming, co
 Currently looking for an opportunity to join a **software development role** where I can contribute and continue learning.
 
 ---
-## 😊 Let's connect
+## 😊 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amit%20Messika-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/amit-messika/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/amit-messika/)
 
 # 🚀 Tech Stack
 
