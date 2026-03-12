@@ -14,7 +14,7 @@ Currently looking for an opportunity to join a **software development role** whe
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/amit-messika/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-amitmessika1-black?logo=github)](https://github.com/amitmessika1)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:amitmesam@gmail.com)
 
 # 🚀 Tech Stack
 
