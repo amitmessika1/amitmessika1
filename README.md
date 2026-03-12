@@ -9,9 +9,6 @@ I have experience working with **full-stack development, systems programming, co
 Currently looking for an opportunity to join a **software development role** where I can contribute to meaningful projects, collaborate with experienced developers, and continue learning and growing.
 
 ---
-## 😊 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/amit-messika/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:amitmesam@gmail.com)
 
 # 🚀 Tech Stack
 
@@ -41,4 +38,8 @@ Currently looking for an opportunity to join a **software development role** whe
 - Client–Server Architecture
 
 ---
+## 😊 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/amit-messika/)
+
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:amitmesam@gmail.com)
 
