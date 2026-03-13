@@ -18,5 +18,3 @@ Currently looking for an opportunity to join a **software development role** whe
 
 
 
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:amitmesam@gmail.com)
-
