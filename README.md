@@ -8,11 +8,7 @@ I have experience working with **full-stack development, systems programming, co
 
 Currently looking for an opportunity to join a **software development role** where I can contribute to meaningful projects, collaborate with experienced developers, and continue learning and growing.
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitmessika1&layout=compact&langs_count=6" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitmessika1)
 
 ---
 ## 😊 Let's Connect
