@@ -1,6 +1,6 @@
 # Hi there, I'm Amit 👋 
 
-🎓 B.Sc. in **Computer Science and Economics** from Ben-Gurion University of the Negev.
+🎓 B.Sc. in **Computer Science and Economics from Ben-Gurion University of the Negev**.
 
 I’m a passionate developer who enjoys building systems, learning new technologies and solving complex problems.
 
