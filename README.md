@@ -10,32 +10,9 @@ Currently looking for an opportunity to join a **software development role** whe
 
 ---
 
-# 🚀 Tech Stack
-
-### Languages
-- Java
-- C++
-- JavaScript
-- Python
-
-### Frontend
-- React
-- React Native
-- Expo
-
-### Backend
-- Node.js
-- Express.js
-
-### Database
-- MongoDB
-
-### Concepts
-- Object-Oriented Programming
-- Multithreading
-- Concurrency & Synchronization
-- Networking Protocols
-- Client–Server Architecture
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitmessika1&layout=compact&langs_count=6" />
+</p>
 
 ---
 ## 😊 Let's Connect
