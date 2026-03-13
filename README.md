@@ -10,6 +10,8 @@ Currently looking for an opportunity to join a **software development role** whe
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitmessika1&layout=compact)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitmessika1&layout=compact&langs_count=6)
+
 ---
 ## 😊 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/amit-messika/)
