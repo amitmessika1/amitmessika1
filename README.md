@@ -8,9 +8,9 @@ I have experience working with **full-stack development, systems programming, co
 
 Currently looking for an opportunity to join a **software development role** where I can contribute to meaningful projects, collaborate with experienced developers, and continue learning and growing.
 
-📧 How to reach me: amitmesam@gmail.com
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitmessika1&layout=compact)
+
+📧 How to reach me: amitmesam@gmail.com
 
 ---
 ## 😊 Let's Connect
