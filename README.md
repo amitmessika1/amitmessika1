@@ -4,7 +4,7 @@
 
 I’m a passionate developer who enjoys building systems, learning new technologies and solving complex problems.
 
-I have experience working with **full-stack development, systems programming, concurrency, networking, and object-oriented design**.
+I have experience working with **full-stack development, systems programming, concurrency, networking and object-oriented design**.
 
 Currently looking for an opportunity to join a **software development role** where I can contribute to meaningful projects, collaborate with experienced developers, and continue learning and growing.
 
