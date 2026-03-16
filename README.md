@@ -6,7 +6,7 @@ I’m a passionate developer who enjoys building systems, learning new technolog
 
 I have experience working with **full-stack development, systems programming, concurrency, networking and object-oriented design**.
 
-Currently looking for an opportunity to join a **software development role** where I can contribute to meaningful projects, collaborate with experienced developers, and continue learning and growing.
+Currently looking for an opportunity to join a **software development role** where I can contribute to meaningful projects, collaborate with experienced developers and continue learning and growing.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitmessika1&layout=compact)
 
