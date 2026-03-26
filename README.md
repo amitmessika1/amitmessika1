@@ -5,6 +5,7 @@
 I’m a passionate developer who enjoys building systems, learning new technologies and solving complex problems.
 
 I have experience working with **full-stack development, systems programming, concurrency, networking and object-oriented design**.
+
 I’m interested in **AI and LLM-based systems** and actively explore this field.  
 I’ve built an applications in this space and I’m curious and highly motivated to keep learning and expanding my knowledge and skills in this area.
 
