@@ -7,13 +7,11 @@ I’m a passionate developer who enjoys building systems, learning new technolog
 I have experience working with **full-stack development, systems programming, concurrency, networking and object-oriented design**.
 
 I’m interested in **AI and LLM-based systems** and actively explore this field.  
-I’ve built an applications in this space and I’m curious and highly motivated to keep learning and expanding my knowledge and skills in this area.
+I have built applications in this area and am curious and highly motivated to deepen my knowledge and skills.
 
 Currently looking for an opportunity to join a **software development role** where I can contribute to meaningful projects, collaborate with experienced developers and continue learning and growing.
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=amitmessika1)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amitmessika1)
 
 📧 How to reach me: amitmesam@gmail.com
 
