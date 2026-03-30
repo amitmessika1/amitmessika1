@@ -13,6 +13,10 @@ Currently looking for an opportunity to join a **software development role** whe
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitmessika1&layout=compact)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitmessikai)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitmessikai&layout=compact&cache_seconds=86400)
+
 📧 How to reach me: amitmesam@gmail.com
 
 ---
