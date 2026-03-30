@@ -11,7 +11,23 @@ I have built applications in this area and am curious and highly motivated to de
 
 Currently looking for an opportunity to join a **software development role** where I can contribute to meaningful projects, collaborate with experienced developers and continue learning and growing.
 
-![GitHub Streak](https://streak-stats.demolab.com?user=amitmessika1)
+---
+
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
+
+### 🌐 Web & Backend
+![React](https://img.shields.io/badge/React-20232A?logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+
+### ⚙️ Tools & Systems
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+
+---
 
 📧 How to reach me: amitmesam@gmail.com
 
