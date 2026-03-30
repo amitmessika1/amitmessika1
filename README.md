@@ -11,11 +11,9 @@ I’ve built an applications in this space and I’m curious and highly motivate
 
 Currently looking for an opportunity to join a **software development role** where I can contribute to meaningful projects, collaborate with experienced developers and continue learning and growing.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitmessika1&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com?user=amitmessika1)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitmessika1)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitmessika1&layout=compact&cache_seconds=86400)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amitmessika1)
 
 📧 How to reach me: amitmesam@gmail.com
 
